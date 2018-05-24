@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# Author: Z.W.
 from splinter.driver.webdriver.chrome import Options, Chrome
 from splinter.browser import Browser
 from contextlib import closing
